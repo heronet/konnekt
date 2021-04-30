@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Konnekt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signin_button">SignIn</string>
+    <string name="jwt_token">JWT_TOKEN</string>
+    <string name="username">USER_NAME</string>
+    <string name="userID">USER_ID</string>
+</resources>
